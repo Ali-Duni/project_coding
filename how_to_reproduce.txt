@@ -1,7 +1,8 @@
 The whole project can easily be reproduced: the folder with raw data 
 contains the two datasets downloaded from https://gabors-data-analysis.com/datasets/#world-bank-immunization,
-renamed for convenience. The cleaned csv files were created using the code 
-that can be found in this repository. All of the scripts in python and stata
+renamed for convenience. full credits for the original data
+go to the administrator of this webpage and worldbank. 
+The cleaned csv files were created using the code that can be found in this repository. All of the scripts in python and stata
 load data from links to this repository, which is public, so anyone can
-directly run them
+directly run them. 
 

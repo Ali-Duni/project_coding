@@ -4,8 +4,11 @@ welcome to my project for the course Coding for Economists. I am using two datas
 from Gabor's data analysis, both can be found under world-bank-immunization. both 
 deal with immunization and child mortality, one of them contains data for individual
 countries and the other one for regions. I used stata to analyse the country data 
-and python for the regions. the codes, graphs and data for each can be found in
-respective folders and subfolders
+and python for the regions. Both of the sets of codes are broken down into data
+cleaning and analysis for easier navigation-thus, there are two do-files and two
+python notebook files in the respective folders.
+the codes, graphs and data for each can be found in
+respective folders and subfolders. There is also a short text file on reproducibility.
 
 The results show that there is a correlation between gdp, which is also usually
 taken as a measure of economic growth, child mortality, and immunization.
